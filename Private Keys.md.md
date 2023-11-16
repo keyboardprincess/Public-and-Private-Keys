@@ -14,5 +14,5 @@
 <h2 id="how-to-see-all-keys">How to see all keys</h2>
 <p>All Bitcoin private keys is simply an integer between number 1 and 115792089237316195423570985008687907852837564279074904382605163141518161494337 or HEX: from 1 to 0xfffffffffffffffffffffffffffffffebaaedce6af48a03bbfd25e8cd0364141. The integer range of valid private keys is governed by the <a href="https://en.bitcoin.it/wiki/Secp256k1" title="Secp256k1">secp256k1</a> ECDSA standard used by Bitcoin.<br>
 You can find  <strong>Private key</strong> in WIF (Wallet Import/Export Format) and compressed key.  <strong>Bitcoin addresses</strong> in  <strong>compressed/ uncompressed</strong>  formats,  <strong>SegWit</strong>  (P2SH-P2WPKH) and  **native Segwit (**P2WPKH) addesses start  <em>bc1</em>,  <strong>Pay to script hash</strong> (P2SH) starting with 3;  <strong>legacy Bitcoin Cash</strong> addresses and  <strong>new format.</strong></p>
-<p>Check out more contents on <a href="https://github.com/keyboardprincess">KeyboardPrincess</a></p>
+<p>Check out more contents by <a href="https://github.com/keyboardprincess">KeyboardPrincess</a></p>
 
